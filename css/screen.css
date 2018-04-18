@@ -270,7 +270,7 @@ nav {
 .nav a {
   display: block;
   text-align: center;
-  line-height: 1.5;
+  line-height: 1.1;
   padding: 0.6315789474em 0.3157894737em;
   /* ~ 12px 6px @ 19px/em */
   color: #333;
@@ -494,6 +494,11 @@ td {
   width: 70%;
 }
 
+.goals {
+  list-style-type: circle;
+  display: inline;
+}
+
 /*Syllabus*/
 .collapseHeader {
   color: #FFFFFF;
@@ -521,6 +526,7 @@ td {
   background-color: #eee;
   font-size: 1em;
   line-height: 1.5em;
+  padding-left: 0.5em;
 }
 
 .accordion p {
@@ -582,6 +588,7 @@ td {
 
 .accordionItem.is-collapsed {
   max-height: 0;
+  padding-left: 0.5em;
 }
 
 .no-js .accordionItem.is-collapsed {
