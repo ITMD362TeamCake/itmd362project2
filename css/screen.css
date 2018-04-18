@@ -292,6 +292,10 @@ nav {
   padding-bottom: 0;
 }
 
+.validation {
+  color: #048299;
+}
+
 .week {
   margin-left: 0;
 }
