@@ -110,9 +110,13 @@ ins {
 /* Links */
 a {
   text-decoration: none;
-  color: #465F58;
+  color: #03667A;
   font-weight: bold;
   padding: 5px;
+}
+
+.links:hover {
+  color: #069BB9;
 }
 
 .preview a {
