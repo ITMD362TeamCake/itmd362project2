@@ -298,6 +298,7 @@ nav {
 
 .validation {
   color: #048299;
+  padding-top: 1em;
 }
 
 .week {
@@ -398,8 +399,8 @@ nav {
 
 /* Table */
 table {
-  table-layout: fixed;
-  width: 750px;
+  /*table-layout: fixed;*/
+  width: 650px;
   margin-bottom: 1em;
 }
 
@@ -408,10 +409,19 @@ table, th, td {
   padding: 0px 10px;
 }
 
+th {
+  color: white;
+}
+
+td, th {
+  text-align: left;
+}
+
 .tablehead {
   background-color: #5dbdcc;
   text-align: center;
   font-weight: 700;
+  color: white;
 }
 
 .tabletitle {
