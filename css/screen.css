@@ -397,6 +397,11 @@ nav {
   margin-bottom: 1.2631578947em;
 }
 
+iframe {
+  width: 650px;
+  height: 350px;
+}
+
 /* Table */
 table {
   /*table-layout: fixed;*/
