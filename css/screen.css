@@ -398,14 +398,14 @@ nav {
 }
 
 iframe {
-  width: 650px;
+  width: 750px;
   height: 350px;
 }
 
 /* Table */
 table {
   /*table-layout: fixed;*/
-  width: 650px;
+  width: 750px;
   margin-bottom: 1em;
 }
 
