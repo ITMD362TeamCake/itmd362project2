@@ -643,6 +643,14 @@ td {
     opacity: 0;
     transform: scale(0.9) rotateX(-60deg);
   }
+  
+  iframe {
+    width: 100%;
+  }
+  
+  .response {
+    width: 100%;
+  }
 }
 /* ========== State ========== */
 .hasjs .extended {
@@ -663,6 +671,14 @@ td {
 
   .nav a {
     padding: 0.6315789474em;
+  }
+  
+  iframe {
+    width: 100%;
+  }
+  
+  .response {
+    width: 100%;
   }
 }
 /* @560px */
@@ -696,6 +712,14 @@ td {
   .flexbox #essential-tools,
   .flexbox #essential-references {
     flex: 0 1 43.5484%;
+  }
+  
+  iframe {
+    width: 100%;
+  }
+  
+  .response {
+    width: 100%;
   }
 }
 /* @650px */
@@ -749,10 +773,26 @@ td {
     width: 42.5%;
     margin-left: 55%;
   }
+  
+  iframe {
+    width: 100%;
+  }
+  
+  .response {
+    width: 100%;
+  }
 }
 @media screen and (min-width: 804px) {
   .flexbox .agenda > ol {
     display: flex;
     /* My life for element/container queries...*/
+  }
+  
+  iframe {
+    width: 100%;
+  }
+  
+  .response {
+    width: 100%;
   }
 }
