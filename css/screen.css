@@ -604,6 +604,16 @@ td {
     max-height: none;
     transition: max-height 0.5s;
   }
+  
+  iframe {
+    width: 100%;
+    border: 0;
+    overflow: hidden;
+  }
+  
+  .response {
+    width: 100%;
+  }
 }
 
 .accordionItem.is-collapsed {
@@ -643,14 +653,6 @@ td {
     opacity: 0;
     transform: scale(0.9) rotateX(-60deg);
   }
-  
-  iframe {
-    width: 100%;
-  }
-  
-  .response {
-    width: 100%;
-  }
 }
 /* ========== State ========== */
 .hasjs .extended {
@@ -675,6 +677,8 @@ td {
   
   iframe {
     width: 100%;
+    border: 0;
+    overflow: hidden;
   }
   
   .response {
@@ -716,6 +720,8 @@ td {
   
   iframe {
     width: 100%;
+    border: 0;
+    overflow: hidden;
   }
   
   .response {
@@ -776,6 +782,8 @@ td {
   
   iframe {
     width: 100%;
+    border: 0;
+    overflow: hidden;
   }
   
   .response {
@@ -790,6 +798,8 @@ td {
   
   iframe {
     width: 100%;
+    border: 0;
+    overflow: hidden;
   }
   
   .response {

@@ -1,5 +1,8 @@
 # itmd362project2
 
+# Self-critique
+This project was fun to put together with my group, and we each had different skills to bring to the project. I got to expand my graphic design skills with new color schemes and font families. I learned more about mobile friendly sites, which is new to me, and responsive design with this project by working with collapsible menus, responsive tables, and modular sizing. Along the way I learned that the color scheme needed to be tweeked a bit, because the colors ended up not looking exactly like the ones we chose. I learned about adding the google calendar to a site for syncing due dates, and then making sure it was mobile friendly but still readable. The collapsible menus were tough to figure out, but worked out great in the end for a mobile friendly site.
+
 # PROJECT TWO: REDESIGN THIS WEBSITE!
 
 # Project Description
